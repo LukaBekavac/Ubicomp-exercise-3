@@ -1,11 +1,14 @@
 {
   "dependencies": {
+    "@comunica/actor-init-sparql": "^2.0.1",
+    "@comunica/query-sparql-solid": "^2.4.0",
     "@inrupt/solid-client-authn-core": "^1.12.2",
+    "@inrupt/solid-client-authn-node": "^1.17.5",
     "cross-fetch": "^4.0.0",
+    "n3": "^1.17.2",
     "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "@types/node-fetch": "^2.6.2"
   }
 }
-
